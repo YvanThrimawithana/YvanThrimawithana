@@ -15,6 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YvanThrimawithana&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+[![An image of @yvanthrimawithana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yvanthrimawithana)](https://holopin.io/@yvanthrimawithana)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=YvanThrimawithana&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
