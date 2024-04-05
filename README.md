@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=YvanThrimawithana&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YvanThrimawithana&limit=5&theme=discord&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=YvanThrimawithana&limit=5&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YvanThrimawithana&icon=0&color=4)](https://visitcount.itsvg.in)
