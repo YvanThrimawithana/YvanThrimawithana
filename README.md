@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on ExploreCeylon <br>👯 I’m looking to collaborate on Mobile app Development<br>🤝 I’m looking for help with Networking, Cyber Security<br>🌱 I’m currently learning Cisco Packet tracer <br>💬 Ask me about <br>⚡ Fun fact
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI;My+name+is+Yvan+Thrimawithana;Welcome!)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
